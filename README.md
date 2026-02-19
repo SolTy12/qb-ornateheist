@@ -51,7 +51,8 @@ Make sure the following resources are installed:
 3. Add the following line to your `server.cfg`:
 
 ```
-ensure qb-bankrobbery
+ensure qb-ornateheist
+ensure qb_ornateprops
 ```
 
 4. Make sure all dependencies are started before this script.
