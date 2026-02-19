@@ -69,8 +69,7 @@ Watch the system preview here:
 ## 📌 Credits
 
 - Original System Developer: UTK  
-- QBCore Adaptation & Fixes: Your Name  
-
+- QBCore Adaptation & Fixes: Sol
 ---
 
 ## 🛠 Support
@@ -78,7 +77,7 @@ Watch the system preview here:
 If you find bugs or have suggestions, feel free to:
 - Open an issue  
 - Submit a pull request  
-
+- Join my discord for support - https://discord.gg/zNfeS5qMJM
 ---
 
 ⭐ If you like the project, consider giving it a star!
