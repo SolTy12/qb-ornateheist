@@ -1,4 +1,4 @@
-# qb-bankrobbery (QBCore Edition)
+# qb-ornateheist (QBCore Edition)
 
 ![QBCore](https://img.shields.io/badge/Framework-QBCore-blue?style=for-the-badge)
 ![ox_inventory](https://img.shields.io/badge/Inventory-ox_inventory-green?style=for-the-badge)
